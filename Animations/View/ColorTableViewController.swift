@@ -34,7 +34,7 @@ class ColorTableViewController: UITableViewController {
         }) as? ColorCell
         
         viewController.colorTableViewController = self
-        viewController.presentingAnimationController = ExpandViewControllerAnimationController(viewCollapsed: cell!.colorView, viewExpanded: viewController.headerView!, duration: 0.4)
+        viewController.presentingAnimationController = ExpandViewControllerAnimationController(viewCollapsed: cell!.colorView, viewExpanded: viewController.headerView!, duration: 0.5)
         
         navigationController?.pushViewController(viewController, animated: true)
     }
