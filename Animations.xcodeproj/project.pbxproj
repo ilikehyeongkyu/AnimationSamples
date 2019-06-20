@@ -19,6 +19,7 @@
 		F07CF97722B9C11D001F73C8 /* ColorTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F07CF97222B9C11D001F73C8 /* ColorTableViewController.swift */; };
 		F07CF97A22B9C128001F73C8 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F07CF97822B9C128001F73C8 /* Extensions.swift */; };
 		F07CF97D22B9C13C001F73C8 /* NavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F07CF97C22B9C13C001F73C8 /* NavigationController.swift */; };
+		F07CF9D122BA3F60001F73C8 /* TransitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F07CF9D022BA3F60001F73C8 /* TransitionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		F07CF97222B9C11D001F73C8 /* ColorTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorTableViewController.swift; sourceTree = "<group>"; };
 		F07CF97822B9C128001F73C8 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Extensions.swift; path = Animations/Extensions.swift; sourceTree = SOURCE_ROOT; };
 		F07CF97C22B9C13C001F73C8 /* NavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationController.swift; sourceTree = "<group>"; };
+		F07CF9D022BA3F60001F73C8 /* TransitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				F07CF97822B9C128001F73C8 /* Extensions.swift */,
 				F07CF97C22B9C13C001F73C8 /* NavigationController.swift */,
 				F07CF96E22B9C11D001F73C8 /* DrawLayerViewController.swift */,
+				F07CF9D022BA3F60001F73C8 /* TransitionViewController.swift */,
 				F07CF96F22B9C11D001F73C8 /* CoreImageFilterViewController.swift */,
 				F07CF97022B9C11D001F73C8 /* ShapeViewController.swift */,
 				F07CF97122B9C11D001F73C8 /* KeyframeAnimationViewController.swift */,
@@ -167,6 +170,7 @@
 				F07CF97322B9C11D001F73C8 /* DrawLayerViewController.swift in Sources */,
 				F07CF97722B9C11D001F73C8 /* ColorTableViewController.swift in Sources */,
 				F07CF97522B9C11D001F73C8 /* ShapeViewController.swift in Sources */,
+				F07CF9D122BA3F60001F73C8 /* TransitionViewController.swift in Sources */,
 				F07CF97A22B9C128001F73C8 /* Extensions.swift in Sources */,
 				F07CF97D22B9C13C001F73C8 /* NavigationController.swift in Sources */,
 				F07CF95E22B9C0BF001F73C8 /* ViewController.swift in Sources */,

@@ -25,9 +25,12 @@ class ViewController: UITableViewController {
         Menu(title: "Keyframe Animation with Slider", action: {
             self.navigationController?.pushViewController(KeyframeAnimationViewController(), animated: true)
         }),
+        Menu(title: "View Transition", action: {
+            self.navigationController?.pushViewController(TransitionViewController(), animated: true)
+        }),
         Menu(title: "ViewController Transition", action: {
             self.navigationController?.pushViewController(ColorTableViewController(), animated: true)
-        })
+        }),
     ]
     
     override func viewDidLoad() {
